@@ -160,3 +160,16 @@ body {
 .lang-list li:first-child::after {
   content: none;
 }
+
+.visual 
+{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 910px;
+    background: url("../images/img_visual01.png") no-repeat;
+    background-size: cover;
+}
+
+
+.visual 
